@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* NNHybrid2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* NNHybrid2Tests.m */; };
 		0C998C72FB7EC4995B91059A /* libPods-NNHybrid2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B3B2E60AF45C43BFFD0EBC2 /* libPods-NNHybrid2.a */; };

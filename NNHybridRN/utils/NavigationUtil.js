@@ -33,6 +33,7 @@ export default class NavigationUtil {
     }
 
     static goPage(page, parameters) {
+      debugger
         const navigation = NavigationUtil.navigation;
         if (!navigation) {
             console.log('NavigationUtil.navigation can not be null');
